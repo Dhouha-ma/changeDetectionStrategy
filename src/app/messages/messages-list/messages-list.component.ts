@@ -1,6 +1,7 @@
 import { ChangeDetectionStrategy, Component } from '@angular/core';
 
 import { MessagesService } from '../messages.service';
+
 @Component({
   selector: 'app-messages-list',
   standalone: true,
